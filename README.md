@@ -6,7 +6,7 @@ Aplikasi "Travel Wisata Lokal" platform berbasis Flutter untuk menjelajah, meren
 
 ### Identitas Kelompok
 * *Ketua:* Berliana Nafarita H - STI202404142
-* *Anggota:* - Yeni Setiyawati (STI202303650), Ikvina .H.N.(STI202303738), Ayu Safitri (STI202303752), & Ngasiyatun K.H (STI202303754)
+* *Anggota:* - Ikvina .H.N.(STI202303738),Yeni Setiyawati (STI202303650), Ayu Safitri (STI202303752), & Ngasiyatun K.H (STI202303754)
 
 ### 1. Fitur Utama
 
