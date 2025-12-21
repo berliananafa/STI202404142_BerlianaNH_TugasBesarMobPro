@@ -79,5 +79,5 @@ link to demo
 <>
 
 ### Documentation
-* *Link APK:* <>
-* *Link Video Presentasi:* <>
+* *Link APK:* <https://drive.google.com/file/d/1K7jsqzMTgmn-X_PZiDpMCnBEnCf_Kyon/view>
+* *Link Video Presentasi:* <https://www.youtube.com/watch?si=XrBDEsue1Jhj2Vor&v=fyzwdR6Eifg&feature=youtu.be>
